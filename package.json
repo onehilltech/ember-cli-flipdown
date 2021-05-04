@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-flipdown",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "ember-cli add-on for FlipDown.js",
   "keywords": [
     "ember-addon",
