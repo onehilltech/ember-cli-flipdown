@@ -23,8 +23,9 @@ ember install ember-cli-flipdown
 Usage
 ------------------------------------------------------------------------------
 
-[Longer description of how to use the addon in apps.]
-
+```handlebars
+<FlipDown @until={{this.until}} @theme={{["light"|"dark"]}} />
+```
 
 Contributing
 ------------------------------------------------------------------------------
